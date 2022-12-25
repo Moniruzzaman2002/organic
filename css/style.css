@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1280px;
+}
+a{
+    text-decoration: none;
+    display: inline;
+}
+ul li{
+    list-style: none;
+}
+img{
+    vertical-align: middle;
+}
+/* header section design in css start */
+#header{
+    background-color: #477018;
+    height: 50px;
+    padding: 10px;
+}
+.container h5{
+    color: #FFFFFF;
+}
+.menu_all{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+}
+.menubar ul li{
+    display: inline;
+    padding: 20px 41px 0 20px;
+    Font style: Mixed;
+    Font size: 16px;
+    
+}
+.menu_section{
+    display: flex;
+}
+/* header section design in css end */
+
+/* banner section design in css part start */
+#banner{
+    Top:340px;
+    Left:230px;
+}
+.banner_all{
+    background: url(../images/banner.png),no-repeat;
+    background-size: cover;
+    display: flex;
+    justify-content: space-between;
+    padding: 90px 10px 10px 10px;
+}
+.banner_left{
+    padding: 90px 10px 10px 10px;
+}
+.banner_right{
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+    
+
+/* banner section design in css part end */
+/* icon section design in css part start */
+
+.icon_section .icon_image{
+    text-align: center;
+}
+.icon_image{
+    margin: 80px;
+    text-align: center;
+    width: 24%;
+   
+}
+
+
+
+/* icon section design in css part end */
+/* treading section design in css part start */
+.vegetable-img img{
+    width: 267px;
+    height: 264px;
+}
+
+/* treading section design in css part end */
+/* products catagory section design in css part start */
+.product{
+    width: 267px;
+    height:416px;
+    background: #FAFAFA;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.second_catagory{
+    width: 267px;
+    height: 416px;
+    padding: 30px;
+    background: url(../images/vegetables_01.png) no-repeat;
+    background-size: cover;
+    border-radius: 25px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+
+.third_catagory{
+    width: 267px;
+    height: 416px;
+    background: url(../images/vegetabless.png) no-repeat;
+    background-size:cover;
+    border-radius: 25px;
+    padding: 30px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    -ms-border-radius: 25px;
+    -o-border-radius: 25px;
+}
+.col-lg-3{
+    padding: 40px 10px 10px 10px;
+}
+/* products catagory section design in css part end*/
+
+
+
+/* fruits section design in html part start */
+.text_all{
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+}
+    
+.times_section{
+    padding:130px 0;
+    background: #F8F8F8;
+    height: 643px;
+}
+
+/* fruits section design in html part end */
+/* testimonial section design in css part start */
+
+
+
+
+.testimonial{
+    display: flex;
+    padding: 130px 0;
+    justify-content: space-between;
+    align-items: center;
+   
+}
+
+/* testimonial section design in css part end */
+
+/* catagory secetion design in css part start */
+.fruits_section{
+    padding:130px 0;
+}
+.catagory{
+    justify-content: space-between;
+    align-items: center;
+
+}
+/* catagory secetion design in css part end */
+
+.footers_section{
+    padding: 130px 0;
+    background: #F8F8F8;
+    height: 543px;
+}
+.footers{
+    justify-content: space-between;
+    align-items: center;
+}
+
+.copywright{
+    background: #E5E5E5;
+    height: 100px;
+}
+.copywrights{
+    text-align: center;
+    padding:30px 0;
+    color: #477018;
+}
+
+
+/* accessors design  */
+
+/* banners section design in css start */
+.banner_image{
+    background: url(../images/banner_01.png),no-repeat;
+    background-size: cover;
+    width:558px;
+    height:700px;
+    
+}
+
+.banner_image2{
+    background: url(../images/banner_02.png),no-repeat;
+    background-size: cover;
+    width:558px;
+    height:338px;
+    
+}
+.banner_image3{
+    background: url(../images/banner_03.png),no-repeat;
+    background-size: cover;
+    width:267px;
+    height:338px;
+  
+}
+.banner_image4{
+    background: url(../images/banner_04.png),no-repeat;
+    background-size: cover;
+    width:267px;
+    height:338px;
+
+}
+/* banners section design in css end */
